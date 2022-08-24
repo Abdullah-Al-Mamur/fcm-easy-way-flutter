@@ -1,0 +1,31 @@
+name: firebase_cloud_messeging
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: 3.0.4
+
+dependencies:
+  bloc: ^8.0.3
+  firebase_core: ^1.21.0
+  firebase_messaging: ^12.0.3
+  flutter_local_notifications: ^9.8.0+1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+dev_dependencies:
+  bloc_test: ^9.0.3
+  flutter_test:
+    sdk: flutter
+  mocktail: ^0.3.0
+  #very_good_analysis: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  generate: true

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403798651303",
+    "project_id": "fcm-practice-b0b87",
+    "storage_bucket": "fcm-practice-b0b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403798651303:android:443594dc792a65c3394682",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.firebase_cloud_messeging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403798651303-2fatdfbi3f1iujilo1bic5g7tiqdcihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5lZcwZtSYFQF8Y4NNEWpbx6s15ekPV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403798651303-2fatdfbi3f1iujilo1bic5g7tiqdcihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
